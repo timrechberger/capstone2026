@@ -1,6 +1,0 @@
-<txt>
-<body>
-Hi, Welcome!
-
-</body>
-</txt>
